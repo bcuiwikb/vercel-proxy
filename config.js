@@ -1,5 +1,5 @@
 const config = {
-  jsdURL: 'https://cdn.jsdelivr.net',
+  jsdURL: 'https://www.iwara.tv',
   allowedOrigins: '*',
 }
 module.exports = config;
